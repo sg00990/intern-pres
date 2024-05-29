@@ -15,6 +15,9 @@ def community_apps():
     col1, col2 = st.columns([.5, 2])
     col1.write('#')
     col1.write('#')
+    col1.write('#')
+    col1.write('#')
+    col1.write('#')
     col1.link_button('**Prettymapp**', url='https://prettymapp.streamlit.app/')
     col2.markdown("""
         <iframe
@@ -25,6 +28,9 @@ def community_apps():
     col3, col4 = st.columns([2, .5])
     col4.write('#')
     col4.write('#')
+    col1.write('#')
+    col1.write('#')
+    col1.write('#')
     col4.link_button('**Generate Tweets**', url='https://tweets.streamlit.app/')
     col3.markdown("""
         <iframe
@@ -35,6 +41,9 @@ def community_apps():
     col5, col6 = st.columns([.5, 2])
     col5.write('#')
     col5.write('#')
+    col1.write('#')
+    col1.write('#')
+    col1.write('#')
     col5.link_button('**CatGDP**', url='https://catgdp.streamlit.app/')
     col6.markdown("""
         <iframe
