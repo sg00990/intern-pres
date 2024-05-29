@@ -70,7 +70,6 @@ def main():
     col1, col2 = st.columns([2, .5])
 
     col1.title('Introduction to Streamlit')
-    col2.write('######')
     col2.image('img/logo.png', width=100)
 
 
