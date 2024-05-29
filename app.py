@@ -16,8 +16,6 @@ def community_apps():
     col1.write('#')
     col1.write('#')
     col1.write('#')
-    col1.write('#')
-    col1.write('#')
     col1.link_button('**Prettymapp**', url='https://prettymapp.streamlit.app/')
     col2.markdown("""
         <iframe
